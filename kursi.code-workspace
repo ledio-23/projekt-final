@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../projekt2023"
+		},
+		{
+			"path": "../7 janar leksion"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kursi"
+	}
+}
